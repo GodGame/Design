@@ -1,2 +1,2 @@
 # Design
-GodGame Design
+ Design
